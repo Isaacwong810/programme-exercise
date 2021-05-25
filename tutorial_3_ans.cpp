@@ -1,21 +1,4 @@
-// Student name: 
-// Student ID  : 
 
-// Submission deadline: Thursday, 14 Feb 2019, 2 pm
-
-/*
-	This exercise is a continuation of Tut-02.
-
-	1. We want to improve the computation efficiency by using binary search to lookup countList
-	   (in Tut-02, we use sequential search to lookup countList).
-	   To support binary search, the countList needs to be maintained in sorted order by the word field.
-
-	2. After obtaining the frequency counts of words, we want to determine the most
-	   popular words (i.e. words with largest count value up to a given rank threshold).
-	   The word ranked 1st has the highest count value.
-	   In the test data, the word "Java" with count = 30 is ranked 1st.
-	   The word "program" with count = 19 is ranked 2nd, and so on.
-*/
 
 #include <iostream>
 #include <fstream>
