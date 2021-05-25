@@ -1,7 +1,3 @@
-// Student name: 
-// Studnet ID  : 
-
-// Submission deadline: Thursday, 28 March 2019, 2 pm
 
 // Implement the functions evaluate_postfix() and evaluate_infix()
 
