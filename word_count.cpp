@@ -1,22 +1,3 @@
-// Student name: Wong Ka Ho
-// Student ID  : 54816829
-
-// Submission deadline: Thursday, 24 Jan 2019, 14:00
-// Upload your program file (tutorial_1.cpp) to Canvas.
-// Late submission or submission not revcieved via Canvas will not be graded.
-
-/*
-	Part-1:	Count the number of words in the input char array.
-	A word is a continuous sequence of non-white space characters.
-	White-space characters include 'space', tab '\t', newline '\n', and carriage return '\r'.
-
-	You may use the C library function isspace() in your answer.
-
-	Part-2: Print the words in the input array, one word per line.
-
-	DO NOT modify the function interfaces given to you.
-
-*/
 
 #include <iostream>
 #include <cstdlib>
