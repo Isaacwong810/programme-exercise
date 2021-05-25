@@ -1,8 +1,6 @@
-// Student name: wong ka ho
-// Student ID  : 54816829
 
 /*
-	Submission deadline: Thursday, 28 Feb 2019, 2 pm.
+	
 
 	This exercise is on sorting.
 	We shall compare the performances of bubble sort, insertion sort, and qsort
