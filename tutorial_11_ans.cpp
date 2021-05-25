@@ -1,8 +1,5 @@
-//Student name: 
-//Studnet ID  : 
 
 /*
-	Submission deadline: Thursday, 11 April 2019, 2 pm.
 
 	Part-1: Tower of Hanoi
 			Implement a non-recursive function to print the sequence of moves.
