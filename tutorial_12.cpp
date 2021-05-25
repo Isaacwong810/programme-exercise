@@ -1,11 +1,7 @@
-// Student name: wong ka ho
-// Student ID  : 54816829
+
 
 /*
-	Submission deadline: Sunday, 21 April 2019, 11:59 pm.
-
-	*** Weighting of this exercise is 2 times the weighting of other tutorials. ***
-
+	
 	What you need to do in this exercise:
 
 	1. A Huffman code table is given to you in the file HuffmanCodeTable.txt
