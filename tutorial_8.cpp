@@ -1,7 +1,3 @@
-// Student name:
-// Student ID  :
-
-// Submission deadline: Thursday, 21 March 2019, 2 pm.
 
 #include <iostream>
 #include <iomanip>
