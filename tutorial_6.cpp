@@ -1,8 +1,7 @@
-// Student name: 
-// Student ID  : 
+
 
 /*
-	Submission deadline: Thursday, 7 March 2019, 2 pm.
+
 
 	Part-1 is on simple linked list operation.
 
