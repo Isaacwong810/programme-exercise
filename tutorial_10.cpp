@@ -1,8 +1,3 @@
-// Student name: wong ka ho
-// Student ID  : 54816829
-
-// Submission deadling: Thursday, 4 April 2019, 2 pm
-
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
