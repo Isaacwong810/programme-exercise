@@ -1,7 +1,4 @@
-// Student name: 
-// Student ID  : 
 
-// Submission deadline: Thursday, 21 Feb, 2 pm
 
 #include <iostream>
 #include <iomanip>  //setw()
