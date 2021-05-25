@@ -1,8 +1,5 @@
-// Student name:
-// Student ID  :
 
 /*
-	Submission deadline: Wed, 13 March 2019, 10 am.
 
 	Part_1: Implement the function retain() to process single-linked list.
 
