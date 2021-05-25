@@ -1,5 +1,3 @@
-// Student name:
-// Student ID  :
 
 /*
 	In this exercise, we want to analyze a text document to find out the
