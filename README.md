@@ -6,10 +6,12 @@ C++ word count exercise
 
 using namespace std;
 
+// Return the number of words in the array text[].
+// Array text[] is terminated by '\0' (end of string symbol of C/C++).
+
 int wordCount(const char text[])
 {
-	// Return the number of words in the array text[].
-	// Array text[] is terminated by '\0' (end of string symbol of C/C++).
+
 
 	int count = 0;
 	int i = 0;
@@ -21,11 +23,11 @@ int wordCount(const char text[])
 	}
 	return count;
 }
+											       
+// Return the number of words (with length >= lenThreshold) in the array text[].
 
 int wordCount(const char text[], int lenThreshold)
 {
-	// Return the number of words (with length >= lenThreshold) in the array text[].
-
 	int count = 0;
 	int i = 0;
 	int length = 0;
@@ -45,11 +47,11 @@ int wordCount(const char text[], int lenThreshold)
 	}
 	return count;
 }
+	
+// Print the words in text[], one word per line.
 
 void printWords(const char text[])
 {	
-	// Print the words in text[], one word per line.
-
 	cout << "Words in the input array:" << endl;
 	int i = 0;
 	for(i=0;text[i]!='\0';i++) {
